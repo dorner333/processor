@@ -1,0 +1,16 @@
+push 22
+call mom
+push 2
+call mom
+call mom
+nop
+exit
+nop
+nop
+nop
+nop
+nop
+nop
+:mom
+push 2
+return
