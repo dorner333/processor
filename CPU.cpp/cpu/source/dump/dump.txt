@@ -1,0 +1,460 @@
+
+command  0 is 6
+stack:  (OK)	Buf: [6]
+return: (OK)	Buf: 
+
+command  1 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: 
+
+command  3 is 1
+stack:  (OK)	Buf: [1]
+return: (OK)	Buf: 
+
+command  5 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: 
+
+command  7 is 11
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 16 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 17 is 1
+stack:  (OK)	Buf: [0]
+return: (OK)	Buf: [10]
+
+command 19 is 33
+stack:  (OK)	Buf: [0][6]
+return: (OK)	Buf: [10]
+
+command 21 is 16
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 23 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 24 is 33
+stack:  (OK)	Buf: [6]
+return: (OK)	Buf: [10]
+
+command 26 is 33
+stack:  (OK)	Buf: [6][1]
+return: (OK)	Buf: [10]
+
+command 28 is 5
+stack:  (OK)	Buf: [6]
+return: (OK)	Buf: [10]
+
+command 29 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 31 is 33
+stack:  (OK)	Buf: [6]
+return: (OK)	Buf: [10]
+
+command 33 is 1
+stack:  (OK)	Buf: [6][-1]
+return: (OK)	Buf: [10]
+
+command 35 is 2
+stack:  (OK)	Buf: [5]
+return: (OK)	Buf: [10]
+
+command 36 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 38 is 11
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 16 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 17 is 1
+stack:  (OK)	Buf: [0]
+return: (OK)	Buf: [10][41]
+
+command 19 is 33
+stack:  (OK)	Buf: [0][5]
+return: (OK)	Buf: [10][41]
+
+command 21 is 16
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 23 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 24 is 33
+stack:  (OK)	Buf: [5]
+return: (OK)	Buf: [10][41]
+
+command 26 is 33
+stack:  (OK)	Buf: [5][6]
+return: (OK)	Buf: [10][41]
+
+command 28 is 5
+stack:  (OK)	Buf: [30]
+return: (OK)	Buf: [10][41]
+
+command 29 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 31 is 33
+stack:  (OK)	Buf: [5]
+return: (OK)	Buf: [10][41]
+
+command 33 is 1
+stack:  (OK)	Buf: [5][-1]
+return: (OK)	Buf: [10][41]
+
+command 35 is 2
+stack:  (OK)	Buf: [4]
+return: (OK)	Buf: [10][41]
+
+command 36 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 38 is 11
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 16 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 17 is 1
+stack:  (OK)	Buf: [0]
+return: (OK)	Buf: [10][41][41]
+
+command 19 is 33
+stack:  (OK)	Buf: [0][4]
+return: (OK)	Buf: [10][41][41]
+
+command 21 is 16
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 23 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 24 is 33
+stack:  (OK)	Buf: [4]
+return: (OK)	Buf: [10][41][41]
+
+command 26 is 33
+stack:  (OK)	Buf: [4][30]
+return: (OK)	Buf: [10][41][41]
+
+command 28 is 5
+stack:  (OK)	Buf: [120]
+return: (OK)	Buf: [10][41][41]
+
+command 29 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 31 is 33
+stack:  (OK)	Buf: [4]
+return: (OK)	Buf: [10][41][41]
+
+command 33 is 1
+stack:  (OK)	Buf: [4][-1]
+return: (OK)	Buf: [10][41][41]
+
+command 35 is 2
+stack:  (OK)	Buf: [3]
+return: (OK)	Buf: [10][41][41]
+
+command 36 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 38 is 11
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 16 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 17 is 1
+stack:  (OK)	Buf: [0]
+return: (OK)	Buf: [10][41][41][41]
+
+command 19 is 33
+stack:  (OK)	Buf: [0][3]
+return: (OK)	Buf: [10][41][41][41]
+
+command 21 is 16
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 23 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 24 is 33
+stack:  (OK)	Buf: [3]
+return: (OK)	Buf: [10][41][41][41]
+
+command 26 is 33
+stack:  (OK)	Buf: [3][120]
+return: (OK)	Buf: [10][41][41][41]
+
+command 28 is 5
+stack:  (OK)	Buf: [360]
+return: (OK)	Buf: [10][41][41][41]
+
+command 29 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 31 is 33
+stack:  (OK)	Buf: [3]
+return: (OK)	Buf: [10][41][41][41]
+
+command 33 is 1
+stack:  (OK)	Buf: [3][-1]
+return: (OK)	Buf: [10][41][41][41]
+
+command 35 is 2
+stack:  (OK)	Buf: [2]
+return: (OK)	Buf: [10][41][41][41]
+
+command 36 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 38 is 11
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 16 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 17 is 1
+stack:  (OK)	Buf: [0]
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 19 is 33
+stack:  (OK)	Buf: [0][2]
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 21 is 16
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 23 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 24 is 33
+stack:  (OK)	Buf: [2]
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 26 is 33
+stack:  (OK)	Buf: [2][360]
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 28 is 5
+stack:  (OK)	Buf: [720]
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 29 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 31 is 33
+stack:  (OK)	Buf: [2]
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 33 is 1
+stack:  (OK)	Buf: [2][-1]
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 35 is 2
+stack:  (OK)	Buf: [1]
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 36 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 38 is 11
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 16 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 17 is 1
+stack:  (OK)	Buf: [0]
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 19 is 33
+stack:  (OK)	Buf: [0][1]
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 21 is 16
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 23 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 24 is 33
+stack:  (OK)	Buf: [1]
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 26 is 33
+stack:  (OK)	Buf: [1][720]
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 28 is 5
+stack:  (OK)	Buf: [720]
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 29 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 31 is 33
+stack:  (OK)	Buf: [1]
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 33 is 1
+stack:  (OK)	Buf: [1][-1]
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 35 is 2
+stack:  (OK)	Buf: [0]
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 36 is 32
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 38 is 11
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41][41]
+
+command 16 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41][41]
+
+command 17 is 1
+stack:  (OK)	Buf: [0]
+return: (OK)	Buf: [10][41][41][41][41][41][41]
+
+command 19 is 33
+stack:  (OK)	Buf: [0][0]
+return: (OK)	Buf: [10][41][41][41][41][41][41]
+
+command 21 is 16
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41][41]
+
+command 41 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41][41]
+
+command 42 is 9
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 40 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 41 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41][41]
+
+command 42 is 9
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 40 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 41 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41][41]
+
+command 42 is 9
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 40 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 41 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41][41]
+
+command 42 is 9
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 40 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 41 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41][41]
+
+command 42 is 9
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 40 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 41 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10][41]
+
+command 42 is 9
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 40 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 41 is 0
+stack:  (OK)	Buf: 
+return: (OK)	Buf: [10]
+
+command 42 is 9
+stack:  (OK)	Buf: 
+return: (OK)	Buf: 
+
+command  9 is 33
+stack:  (OK)	Buf: [720]
+return: (OK)	Buf: 
+
+command 11 is 7
+stack:  (OK)	Buf: [720]
+return: (OK)	Buf: 

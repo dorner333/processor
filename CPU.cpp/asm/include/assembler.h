@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+//#define DEBUG 1
+
 #define EMIT(arg1, arg2)    else if(!strcmp(symbols + cmd_str, #arg1))\
 							{										  \
 							emit (&cod_pos, code, buffer, arg2);	  \
@@ -27,10 +29,10 @@ enum { RPUSH =	32, RPOP }RCMDS; // registers commands
 enum { CMD = 64 }UCMD; // user commands
 
 typedef struct LABEL
-{
-char name[50];
-int adress;	
-}label;
+	{
+	char name[50];
+	int adress;	
+	}label;
 
 int open(char** symbols, int* code_size, char* file_name, int directory_mode);
 void asembler(char* symbols, int SIZE, int code_size, char* file_name, int directory_mode);

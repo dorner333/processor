@@ -1,16 +1,31 @@
-push 22
-call mom
-push 2
-call mom
-call mom
-nop
+in                     
+rpush rax
+push 1
+rpush r_2
+call func
+rpop r_2
+print
 exit
 nop
 nop
 nop
+
+
+:func
+push 0
+rpop rax
+jbe ret
 nop
+rpop rax
+rpop r_2
+mul
+rpush r_2
+rpop rax
+push -1
+add
+rpush rax
+call func
+
 nop
-nop
-:mom
-push 2
+:ret
 return

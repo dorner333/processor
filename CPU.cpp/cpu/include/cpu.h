@@ -1,14 +1,16 @@
 #pragma once
 
+//#define CONSOLE_MODE 1
+
 #define FILE_ERROR 1
 #define CMD_ERROR 2
 
 struct registers
-{
-public:
+	{
+	public:
 	const char* name;
 	int data;
-};
+	};
 
 //	   0        1     2    3    4    5    6   7      8    9    10
 enum { NOP = 0, PUSH, ADD, SUB, DIV, MUL, IN, PRINT, OUT, RET, EXIT, 

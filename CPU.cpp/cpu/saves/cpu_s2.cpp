@@ -39,7 +39,7 @@ int* file(int& SIZE)
 int proc(int* cmd, int SIZE)
 	{
 
-	FILE* dump = fopen( "dump/dump.txt", "w");
+	FILE* dump = fopen( "dump/dump.txt" , "w");
 
 	STACK stack   (start_size);
 	STACK returns (start_size);
@@ -161,8 +161,7 @@ int proc(int* cmd, int SIZE)
 					tmp2 = stack.pop();
 					if (tmp1 != tmp2)	i = cmd[i] - 2;
 					break;     	
-				}
-
+					}
 		 		#ifdef CONSOLE_MODE
 				stack.stack_dump ();
 				returns.stack_dump ();				
@@ -183,4 +182,5 @@ int proc(int* cmd, int SIZE)
 	fclose(dump);
 	free(cmd);
 	return 0;
+
 	}
